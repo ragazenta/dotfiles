@@ -1,7 +1,6 @@
 *
 !.Xresources
 !.gitignore
-!.xmonad/xmonad.hs
 !.calendar.sh
 !.color.sh
 !.color.numix.sh
@@ -18,6 +17,8 @@
 !.statusbar.1024.conf
 !.tray.sh
 !.vimrc
+!.xmonad/
+!.xmonad/xmonad.hs
 !.xsession
 !.zxcv.sh
 !README.md
